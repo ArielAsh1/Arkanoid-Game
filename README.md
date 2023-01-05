@@ -1,6 +1,6 @@
 # Arkanoid Game- Object-Oriented Programming
 
-The old and classic Arkanoid game, developed from scrath using Java, while implementing complex OOP principles and design patterns.
+The old and classic Arkanoid game, developed from scratch using Java, while implementing complex OOP principles and design patterns.
 
 The game was built using various OOP principles, which allow easy changes in the game's levels and style.
 
